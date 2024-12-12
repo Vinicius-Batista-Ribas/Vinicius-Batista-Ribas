@@ -28,7 +28,7 @@
         <div>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Batista-Ribas">
         </div>
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-Batista-Ribas&    theme=github-compact">
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-Batista-Ribas&theme=github-compact">
         </div>
     </div>
 </div> 
