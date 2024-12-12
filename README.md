@@ -24,10 +24,10 @@
             <img alt="vini-PYTHON" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
             <img alt="vini-JUPYTHON" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />   
         </div>
-        <div>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-Batista-Ribas&theme=github-compact">
+      <div>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Batista-Ribas">
         </div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Batista-Ribas">
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-Batista-Ribas&    theme=github-compact">
         </div>
     </div>
 </div> 
