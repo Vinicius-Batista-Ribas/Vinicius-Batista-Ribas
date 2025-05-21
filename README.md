@@ -11,7 +11,6 @@
             <a href="https://www.linkedin.com/in/vin%C3%ADcius-batista-9980081b1/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
         </div>
         <div style="display: inline_block"><br>
-            <img alt="vini-Canva" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />   
             <img alt="vini-Blender" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
             <img alt="vini-Docker" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
             <img alt="vini-GO" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
