@@ -21,6 +21,7 @@
             <img alt="vini-POSTGRESS" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
             <img alt="vini-PYTHON" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
             <img alt="vini-JUPYTHON" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />   
+            <img alt="vini-neo4j" heigth="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" />
         </div>
         <div>
         <div>
