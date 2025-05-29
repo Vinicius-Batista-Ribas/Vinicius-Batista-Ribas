@@ -2,8 +2,7 @@
     <div>   
         <h1>Hey there! 👋 i'm <a href="https://github.com/Vinicius-Batista-Ribas" target="_blank">Vini</a></h1>
         <p >🎓 Formado no <strong>Inatel</strong> no curso de Engenharia da Computação</p>
-        <p>💻 Desenvolvedor <strong>Back end</strong></p>
-        <p>Currently studying Blender and Data Science🎲</p>
+        <p>💻 Desenvolvedor <strong>Back end</strong> e <strong>Analise de Dados</strong></p>
     </div>
     <div>
         <div>
