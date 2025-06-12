@@ -30,7 +30,8 @@
         </div>
     </div>
     <div>
-        <a href="https://github.com/Vinicius-Batista-Ribas/Certificados/tree/main"target="_blank"></a> <h1>Certificados</h1>
+        <h1>Certificados</h1>
+        <p>Certificados adiquiridos durante a carreira estão disponiveis no link:<a href="https://github.com/Vinicius-Batista-Ribas/Certificados/tree/main"target="_blank"></a> Certificados </p>
     </div>
     <div>
         <H2>Portifolio</H2>
