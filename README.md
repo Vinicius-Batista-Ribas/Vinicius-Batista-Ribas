@@ -2,7 +2,7 @@
     <div>   
         <h1>Hey there! 👋 i'm <a href="https://github.com/Vinicius-Batista-Ribas" target="_blank">Vini</a></h1>
         <p >🎓 Formado no <strong>Inatel</strong> no curso de Engenharia da Computação</p>
-        <p>💻 Desenvolvedor <strong>Back end</strong> e <strong>Analise de Dados</strong></p>
+        <p>💻 Desenvolvedor <strong>Back end</strong> e <strong>Analista de Dados</strong></p>
     </div>
     <div>
         <div>
@@ -29,4 +29,11 @@
             <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-Batista-Ribas&theme=github-compact">
         </div>
     </div>
+    <div>
+        <a href="https://github.com/Vinicius-Batista-Ribas/Certificados/tree/main"target="_blank"></a> <h1>Certificados</h1>
+    </div>
+    <div>
+        <H2>Portifolio</H2>
+    </div>
+
 </div> 
